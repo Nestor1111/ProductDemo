@@ -4,7 +4,7 @@
 Spring Boot REST API endpoint that returns products.
 
 ## Usage
-- Run server
+- Run server after compile
 
         cd target
         

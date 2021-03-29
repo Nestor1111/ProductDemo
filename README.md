@@ -13,7 +13,7 @@ Spring Boot REST API endpoint that returns products.
 		Go to http://localhost:8080/products
 		
 ## Notes
-I did not finish:
+I did not have time to finish some details:
+- There is only one simple test. I would add many different test cases with the possibilities offered by JUnit.
 - There is not exception handling.
-- There is only one simple JUnit test.
 - I would add Swagger documentation.
